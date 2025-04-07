@@ -120,7 +120,7 @@ Underserved in **Latin Trap**, **Reggaeton**, and Urban music. Opportunity for a
 
 ## ✨ About the Author
 
-**Rebecca Woo**  
-Business & Data Analyst | Where Data Meets Design  
+- **Rebecca Woo**  
+  Business & Data Analyst | Where Data Meets Design  
 ---
 
