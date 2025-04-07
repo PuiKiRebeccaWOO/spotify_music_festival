@@ -72,8 +72,6 @@ To enable scalable and relational analysis, all datasets were transformed into a
 
 ## 🔍 Key Findings
 
-## 🔍 Key Findings
-
 - **Pop**, **Electronic**, and **Indie** dominate the top charts across Europe, with artists like **Billie Eilish**, **Lady Gaga**, and **Sabrina Carpenter** leading in daily rankings.
 - **Bad Bunny** and **GIMS** reflect growing interest in **Latin** and **Francophone** music, especially in **Spain**, where these genres are underrepresented in current festival offerings.
 - **Hungary’s Sziget Festival** accounts for **83% of the country’s total festival economic impact**, indicating a highly concentrated market with room for genre expansion or new niche festivals.
